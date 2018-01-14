@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Onboarding/Onboarding.iml" filepath="$PROJECT_DIR$/Onboarding/Onboarding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PowerOfThor-EP1/PowerOfThor-EP1.iml" filepath="$PROJECT_DIR$/PowerOfThor-EP1/PowerOfThor-EP1.iml" />
     </modules>
   </component>
 </project>
