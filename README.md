@@ -10,6 +10,7 @@ All solutions are 100% ones.
  * [Temperatures](https://github.com/Malanius/CodinGame/blob/master/EasyPuzzles/Temperatures/src/Solution.java)
  * [Mars Lander EP1](https://github.com/Malanius/CodinGame/blob/master/EasyPuzzles/MarsLander-EP1/src/Player.java)
  * [ASCII art](https://github.com/Malanius/CodinGame/blob/master/EasyPuzzles/ASCIIart/src/Solution.java)
- * Chuck Norris
+ * [MIME type](https://github.com/Malanius/CodinGame/blob/master/EasyPuzzles/MIMEtype/src/Solution.java)
+ * [Chuck Norris](https://github.com/Malanius/CodinGame/blob/master/EasyPuzzles/ChuckNorris/src/Solution.java)
  * Defibrilators
  * Horse-racing Duals
