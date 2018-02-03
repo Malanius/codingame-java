@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ASCIIart/ASCIIart.iml" filepath="$PROJECT_DIR$/ASCIIart/ASCIIart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChuckNorris/ChuckNorris.iml" filepath="$PROJECT_DIR$/ChuckNorris/ChuckNorris.iml" />
       <module fileurl="file://$PROJECT_DIR$/MIMEtype/MIMEtype.iml" filepath="$PROJECT_DIR$/MIMEtype/MIMEtype.iml" />
       <module fileurl="file://$PROJECT_DIR$/MarsLander-EP1/MarsLander-EP1.iml" filepath="$PROJECT_DIR$/MarsLander-EP1/MarsLander-EP1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Onboarding/Onboarding.iml" filepath="$PROJECT_DIR$/Onboarding/Onboarding.iml" />
