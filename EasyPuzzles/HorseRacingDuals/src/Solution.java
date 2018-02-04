@@ -19,27 +19,24 @@ class Solution {
             strengths.add(pi);
         }
 
-        strengths.sort(null);
         System.err.println(strengths);
 
-        int closest = Integer.MAX_VALUE;
+        List<Integer> diffs = new ArrayList<>();
+
 
         for (int i = 0; i < strengths.size(); i++) {
-            for (int j = 0; j < strengths.size(); j++) {
-                if (i != j) {
-                    System.err.printf("Computing diff: %d, %d%n", strengths.get(i), strengths.get(j));
-                    int diff = Math.abs(strengths.get(i) - strengths.get(j));
-                    System.err.println("Current diff: " + diff);
-                    if (diff < closest) {
-                        closest = diff;
-                        System.err.println("Closest diff: " + closest);
+            int finalI = i;
+            new Thread(() -> {
+                for (int j = 0; j < strengths.size(); j++) {
+                    if (finalI != j) {
+                        int diff = Math.abs(strengths.get(finalI) - strengths.get(j));
+                        diffs.add(diff);
                     }
                 }
-            }
+            }).run();
         }
-
-
-        System.out.println(closest);
+        diffs.sort(null);
+        System.out.println(diffs.get(0));
     }
 
 }
