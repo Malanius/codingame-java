@@ -12,5 +12,5 @@ All solutions are 100% ones.
  * [ASCII art](https://github.com/Malanius/CodinGame/blob/master/EasyPuzzles/ASCIIart/src/Solution.java)
  * [MIME type](https://github.com/Malanius/CodinGame/blob/master/EasyPuzzles/MIMEtype/src/Solution.java)
  * [Chuck Norris](https://github.com/Malanius/CodinGame/blob/master/EasyPuzzles/ChuckNorris/src/Solution.java)
- * Defibrilators
- * Horse-racing Duals
+ * [Defibrilators](https://github.com/Malanius/CodinGame/blob/master/EasyPuzzles/Defibrillators/src/Solution.java)
+ * [Horse-racing Duals](https://github.com/Malanius/CodinGame/blob/master/EasyPuzzles/HorseRacingDuals/src/Solution.java)
