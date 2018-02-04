@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ASCIIart/ASCIIart.iml" filepath="$PROJECT_DIR$/ASCIIart/ASCIIart.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChuckNorris/ChuckNorris.iml" filepath="$PROJECT_DIR$/ChuckNorris/ChuckNorris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Defibrillators/Defibrillators.iml" filepath="$PROJECT_DIR$/Defibrillators/Defibrillators.iml" />
       <module fileurl="file://$PROJECT_DIR$/HorseRacingDuals/HorseRacingDuals.iml" filepath="$PROJECT_DIR$/HorseRacingDuals/HorseRacingDuals.iml" />
       <module fileurl="file://$PROJECT_DIR$/MIMEtype/MIMEtype.iml" filepath="$PROJECT_DIR$/MIMEtype/MIMEtype.iml" />
       <module fileurl="file://$PROJECT_DIR$/MarsLander-EP1/MarsLander-EP1.iml" filepath="$PROJECT_DIR$/MarsLander-EP1/MarsLander-EP1.iml" />
